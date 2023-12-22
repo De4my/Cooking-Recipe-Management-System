@@ -1,1 +1,5 @@
+## Project Background
+This project manages all recipes that have been inserted by the user. The system allows users to see whole new recipes and include some old recipes, hence it will also show ranking based on the rating. This system is developed to be beneficial to the user for searching recipes in one place. Hence, it will help users pick the recipe they want to try. In addition, the system also provides the details for every recipe so it will be a guideline for new users to try to cook. This system also adds its recipe and shares it with other users. This will create a community and give exposure to new users to try the recipes that have been added. Finally, the system is just a platform for users to share,rate and manage their recipes. It also gives feedback through ratings to get an overview of the recipe that has been approved, which will allow the user to improve their recipe.
 
+## Structured Chart
+![image](https://github.com/De4my/Cooking-Recipe-Management-System/assets/116957596/5f664b7a-328d-4b33-9b9f-4730c4cdfcf1)
